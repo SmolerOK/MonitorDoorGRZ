@@ -1,0 +1,20 @@
+{
+  "mqttUsername" : "admin",
+  "mqttPassword" : "333",
+  "idClient" : "MonitorDoor",
+  "ipClient" : "",
+  "portClient" : 1883,
+  "monitorDoorDictionary" : {
+    "4" : {
+      "ipDoor" : "-",
+      "portDoor" : 11",
+      "portMonitor" : 1985
+    },
+    "2" : {
+      "ipDoor" : "-",
+      "portDoor" : 1111,
+      "ipMonitor" : "",
+      "portMonitor" : 1985
+    }
+  }
+}
